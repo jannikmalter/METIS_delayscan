@@ -21,6 +21,7 @@
 		</Item>
 		<Item Name="subvi" Type="Folder">
 			<Item Name="create scan vectr.vi" Type="VI" URL="../subvi/create scan vectr.vi"/>
+			<Item Name="create scan vectr2.1.vi" Type="VI" URL="../subvi/create scan vectr2.1.vi"/>
 			<Item Name="mm2time.vi" Type="VI" URL="../subvi/mm2time.vi"/>
 			<Item Name="time2mm.vi" Type="VI" URL="../subvi/time2mm.vi"/>
 			<Item Name="time2mm_delta.vi" Type="VI" URL="../subvi/time2mm_delta.vi"/>
@@ -273,6 +274,7 @@
 				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
 				<Item Name="LVRectTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRectTypeDef.ctl"/>
 				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
+				<Item Name="NI_AALPro.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALPro.lvlib"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
 				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
 				<Item Name="Not Found Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Not Found Dialog.vi"/>
